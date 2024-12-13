@@ -221,32 +221,40 @@ The platform leverages _Appwrite_, an open-source Backend-as-a-Service (BaaS), t
 
 ---
 
-### Why Choose Our Platform Over Mobile Apps?
+## Why Choose Our Platform Over Mobile Apps?
+
 While many mobile apps offer services for event management, our web platform stands out with additional functionalities and features that make it the superior choice.
 
 1. Comprehensive and Expanded Experience
-Easy Access to Advanced Features: Thanks to the platform's integrated interface, users can access all features in one place without the need for multiple app installations.
-All-in-One Dashboard: A complete event management solution, from creation to performance analysis, all accessible from a single dashboard.
+    * Easy Access to Advanced Features: Thanks to the platform's integrated interface, users can access all features in one place without the need for multiple app installations.
+
+    * All-in-One Dashboard: A complete event management solution, from creation to performance analysis, all accessible from a single dashboard.
 2. Unlimited Customization Options
-Page Personalization: Fully customizable event pages to align with your brand identity using easy drag-and-drop tools.
-Integration with External Tools: Seamless integration with productivity tools like Google Calendar and Zoom for enhanced collaboration.
+    * Page Personalization -Future-: Fully customizable event pages to align with your brand identity using easy drag-and-drop tools.
+
+    * Integration with External Tools: Seamless integration with productivity tools like Google Calendar and Zoom for enhanced collaboration.
 3. Enhanced Performance and User Experience
-Responsive Design: The platform works seamlessly across all devices, including mobile phones, ensuring a premium experience on larger screens.
-Faster Performance: Quicker page loading times compared to mobile apps that rely on device resources.
+    * Responsive Design: The platform works seamlessly across all devices, including mobile phones, ensuring a premium experience on larger screens.
+
+    * Faster Performance: Quicker page loading times compared to mobile apps that rely on device resources.
 4. Comprehensive Analytics and Data Insights
-Advanced Analytics Dashboard: Offers precise reports on event performance, such as attendance statistics and revenue, features typically unavailable on mobile apps.
-Real-Time Data: Instant visibility into all event activities, from registrations to sales.
+    * Advanced Analytics Dashboard: Offers precise reports on event performance, such as attendance statistics and revenue, features typically unavailable on mobile apps.
+
+    * Real-Time Data: Instant visibility into all event activities, from registrations to sales.
 5. Advanced Support and Greater Flexibility
-User Roles and Permissions: Manage different user roles, such as organizers, participants, and vendors, with customizable permissions.
-Flexible Notification System: Notifications via email, SMS, and in-platform alerts for better communication.
+    * User Roles and Permissions: Manage different user roles, such as organizers, participants, and vendors, with customizable permissions.
+
+    * Flexible Notification System: Notifications via email, SMS, and in-platform alerts for better communication.
 6. Marketplace Integration (FUTURE)
-Services Marketplace: Connect organizers with local and international vendors for services like printing, catering, and event setup.
+    * Services Marketplace: Connect organizers with local and international vendors for services like printing, catering, and event setup.
 7. Superior Security and Reliability
-Secure Environment: Adheres to high-security standards, such as PCI-DSS for payment processing, offering users a safer experience compared to some mobile apps.
-Continuous Backup: Protects user and event data with real-time backup capabilities.
+    * Secure Environment: Adheres to high-security standards, such as PCI-DSS for payment processing, offering users a safer experience compared to some mobile apps.
+
+    * Continuous Backup: Protects user and event data with real-time backup capabilities.
 8. Future-Ready Features
-AI-Powered Tools: Features like personalized recommendations and big data analytics, rarely available in traditional mobile apps.
-Integrated Survey System: Built-in post-event surveys to increase attendee engagement and collect feedback for improved performance.
+    * AI-Powered Tools: Features like personalized recommendations and big data analytics, rarely available in traditional mobile apps.
+
+    * Integrated Survey System: Built-in post-event surveys to increase attendee engagement and collect feedback for improved performance.
 
 ## _Conclusion_
 
